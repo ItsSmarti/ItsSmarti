@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ItsSmarti
-- 👀 I’m interested in C++, Python and Data Science / Robotics applications in mechatronic systems
-- 💞️ I’m looking for a Mentor that helps me start contributing to Data Science related Open Source projects.
+
